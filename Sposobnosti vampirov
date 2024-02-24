@@ -1,0 +1,31 @@
+<html>
+    <header>
+        <a1> Персонажи </a1>
+        <a2> Локации </a2>
+        <a3> Способности вампиров </a3>
+    </header>
+    <article class="sumerki3">
+    <p> Способности Эдварда </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8.png">
+    </article>
+     <article class="sumerki3">
+    <p> Способности Элис </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%201.png">
+    </article>
+    <article class="sumerki3">
+    <p> Способности Джаспера </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%202.png">
+    </article>
+    <article class="sumerki3">
+    <p> Способности Беллы </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%202.png">
+    </article>
+    <article class="sumerki3">
+    <p> Способности Ренесми </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%204.png">
+    </article>
+    <article class="sumerki3">
+    <p> Способности Аро </p>
+    <img src="file:///C:/Users/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D0%B4%D0%B5%D1%8225/Desktop/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%205.png">
+    </article>
+</html>
